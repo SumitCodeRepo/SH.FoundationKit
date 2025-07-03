@@ -1,5 +1,6 @@
 # SH.FoundationKit – Development Progress
 
+
 ## 🎯 Objective
 
 `SH.FoundationKit` is a modular, reusable infrastructure package for .NET 9+ applications. It aims to simplify and standardize base application setup with support for:
